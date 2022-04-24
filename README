@@ -1,0 +1,6 @@
+This is a nextflow pipeline for calling SVs using the SMOOVE implementation of Lumpy:
+
+https://github.com/brentp/smoove
+
+Pedersen, B. S., Layer, R., & Quinlan, A. R. (2020).
+smoove: structural-variant calling and genotyping with existing tools (Version 0.2.8) [Computer software]
